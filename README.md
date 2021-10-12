@@ -49,7 +49,7 @@ Geoscience and Remote Sensing 2020), **Yu-Bang Zheng et al.**
    * Low-Rank Tensor Completion With a New Tensor Nuclear Norm Induced by Invertible Linear Transforms (IEEE Conference on Computer Vision and Pattern
 Recognition 2019), **Canyi Lu et al.**
 * TTNN [[Web]](https://dblp.org/pid/68/2077.html)[[Code]](https://github.com/xjzhang008/Transformed-Tensor-SVD)[[PDF]](https://onlinelibrary.wiley.com/doi/10.1002/nla.2299)
-   * Robust tensor completion using transformed tensor singular value decomposition (Numerical Linear Algebra with Applications 2020), **Gaungjing Song et al.**
+   * Robust tensor completion using transformed tensor singular value decomposition (Numerical Linear Algebra with Applications 2020), **Guangjing Song et al.**
 * t-SVDM [[Web]](https://mkilme01.pages.tufts.edu/) [Code] [[PDF]](https://www.pnas.org/content/118/28/e2015851118?__cf_chl_jschl_tk__=pmd_q2NSds777roBnmlkyZ._oWUyt3inwbvjxppxHTIgiWk-1632368958-0-gqNtZGzNAeWjcnBszQk9)
    * Tensor-tensor algebra for optimal representation and compression of multiway data (Proceedings of the National Academy of Sciences of the United States of America 2021), **Misha E. Kilmer et al.**
 * Framelet [[Web]](https://it.swufe.edu.cn/info/1106/6154.htm)[[Code]](https://github.com/TaiXiangJiang/Framelet-TNN)[[PDF]](https://ieeexplore.ieee.org/document/9115254)
